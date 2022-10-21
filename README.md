@@ -1,2 +1,3 @@
 # InformationRetrieval
-InformationRetrieval project.
+InformationRetrieval project by:
+Daniel González Muela, Ariadna Morancho, Carla Vega
