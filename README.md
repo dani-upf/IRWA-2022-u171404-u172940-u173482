@@ -10,4 +10,4 @@ All the datasets used are given by the professors. We store them in a Google Dri
 
 2- 'drive/Shareddrives/IR/Project/data/tweet_document_ids_map.csv' This is the dataset of the id-tweet maps. Given in Part 1
 
-3- 'drive/Shareddrives/IR/Project/data/evaluation_gt.csv'. Dataset of the ground-truth evaluation. Given in Part 2 (NEW!)
+3- 'drive/Shareddrives/IR/Project/data/evaluation_gt.csv'. Dataset of the ground-truth evaluation. Given in Part 2 
