@@ -1,0 +1,1 @@
+Last part of the project. You will find the report and the .py files of the web_app. We only modified algorithms.py and if you replace it in your skeleton code everything should work, since the files were to heavy for uploading all of them.
